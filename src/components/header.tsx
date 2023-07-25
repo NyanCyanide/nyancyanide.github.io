@@ -74,7 +74,7 @@ export default function Header() {
               Contact Me
             </div>
           </a>
-          <a data-type="link" className="text-center md:-rotate-90 interactable" href="https://drive.google.com/file/d/1vNbzadQaX-MVG2dJ-4dfpyUdsI6Kafef/view?usp=drive_link" target="_blank">
+          <a data-type="link" className="text-center md:-rotate-90 interactable" href="https://drive.google.com/file/d/17dklhZ8WUNA4qju7dsNSRsqvQ15GcDXn/view?usp=drive_link" target="_blank">
             <div className="py-2 hover:bg-white hover:text-black duration-500">
               Resume
             </div>
