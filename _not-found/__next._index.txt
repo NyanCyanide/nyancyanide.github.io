@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[7121,[],""]
-3:I[4581,[],""]
-4:I[5773,["177","static/chunks/app/layout-077930a0baa1e4e9.js"],"default"]
-:HL["/_next/static/css/a4fff66e52642f2e.css","style"]
-0:{"buildId":"Nzvut1lw_Mb3GDStrPzJz","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a4fff66e52642f2e.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_188709 __variable_9a8899 antialiased bg-black select-none ","children":[["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}],["$","$L4",null,{}]," "]}]}]]}],"loading":null,"isPartial":false}
