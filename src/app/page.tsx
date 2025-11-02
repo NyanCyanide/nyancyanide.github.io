@@ -1,14 +1,13 @@
 "use client";
 
-import Navbar from "@/components/Navbar";
-import Intro from "@/components/Intro";
-import Projects from "@/components/Projects";
-import About from "@/components/About";
-import Work from "@/components/Work";
-import Connect from "@/components/Connect";
-import Division from "@/components/Division";
-import Newdivision from "@/components/NewDivision";
-import Heading from "@/components/Heading";
+import Navbar from "../components/Navbar";
+import Intro from "../components/Intro";
+import Projects from "../components/Projects";
+import Work from "../components/Work";
+import Connect from "../components/Connect";
+import Division from "../components/Division";
+import Newdivision from "../components/NewDivision";
+import Heading from "../components/Heading";
 
 
 export default function Home() {
