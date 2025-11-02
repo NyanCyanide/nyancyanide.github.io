@@ -2,7 +2,7 @@
 
 import Navbar from "@/components/Navbar";
 import Intro from "@/components/Intro";
-import Projects from "@/components/Projects";
+import Projects from "@/components/projects";
 import Work from "@/components/Work";
 import Connect from "@/components/Connect";
 import Division from "@/components/Division";
