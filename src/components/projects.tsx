@@ -2,7 +2,7 @@ import BorderNoPattern from "./BorderNoPattern";
 import Image from "next/image";
 import { ExternalLink } from "lucide-react"; // icon for link hover
 
-export default function Work() {
+export default function Projects() {
   const projects = [
     {
       title: "PokéLLM",
